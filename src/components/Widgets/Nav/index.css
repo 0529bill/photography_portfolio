@@ -1,0 +1,16 @@
+.nav {
+  z-index: 100000;
+  position: fixed;
+  color: rgb(197, 191, 191);
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+}
+.nav_row {
+  padding-right: 30px;
+}
+
+.nav_row span {
+  padding: 20px 25px;
+}
